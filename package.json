@@ -1,0 +1,33 @@
+{
+  "name": "btn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "compressjs": "^1.0.3",
+    "fs": "^0.0.1-security",
+    "he": "^1.2.0",
+    "html-to-text": "^9.0.5",
+    "js-beautify": "^1.14.8",
+    "lz-string": "^1.5.0",
+    "lzma-native": "^8.0.6",
+    "mongodb": "^5.7.0",
+    "natural": "^6.5.0",
+    "pako": "^2.1.0",
+    "parse-wikitext": "^1.0.0",
+    "path": "^0.12.7",
+    "snappy": "^7.2.2",
+    "sqlite3": "^5.1.6",
+    "wordnet": "^2.0.0",
+    "wordnet-db": "^3.1.14",
+    "zlib": "^1.0.5"
+  }
+}
